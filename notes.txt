@@ -1,0 +1,4 @@
+how to start venv: venv\Scripts\activate.bat
+how to start server: uvicorn main:app --reload
+
+What is basemodel?
